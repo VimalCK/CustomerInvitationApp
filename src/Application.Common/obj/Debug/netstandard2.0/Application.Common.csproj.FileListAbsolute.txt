@@ -1,0 +1,9 @@
+D:\CustomerInvitationApp\src\Application.Common\bin\Debug\netstandard2.0\Application.Common.deps.json
+D:\CustomerInvitationApp\src\Application.Common\bin\Debug\netstandard2.0\Application.Common.dll
+D:\CustomerInvitationApp\src\Application.Common\bin\Debug\netstandard2.0\Application.Common.pdb
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.csprojAssemblyReference.cache
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.AssemblyInfoInputs.cache
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.AssemblyInfo.cs
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.csproj.CoreCompileInputs.cache
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.dll
+D:\CustomerInvitationApp\src\Application.Common\obj\Debug\netstandard2.0\Application.Common.pdb

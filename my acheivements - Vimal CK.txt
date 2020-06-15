@@ -1,0 +1,16 @@
+Many developers I know are interested to use productivity tools to improve their work and often 
+prefer to use keyboard shortcuts than mouse. I have developed an extension called "Sempu" to help 
+developers to view the available shortcuts. Extension has a voice recogination feature
+to execute the commands. 
+
+https://marketplace.visualstudio.com/items?itemName=VimalCK.Sempu
+
+I am doing my academic research on "Digitization of Intangible Cultural Heritage" using 
+Photogrammetry, Reflectence Transmission Imaging Process, and AI. I have done a PoC on digitizing
+cultural artefacts like 3D objects, audio and videos using Photogrammetry, RTI and AI. I am considering
+this as one of my significant acheivement as it contributes to preserving our cultural heritage for the 
+upcoming generation. It can also help research students, archivists and others in their work.
+
+
+I am also an active member of Stackoverflow community to help other developers as much as I can.
+https://stackoverflow.com/users/2445516/vimal-ck

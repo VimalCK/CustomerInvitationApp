@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6utV0BsNsiHQAR+we7GeethfmYvLs3hx3DLo0mV2a8powS/frIDYHqC8AiWHSUlKC9vHO/1iImb4R7Vi2Kf5sw==",
+  "success": true,
+  "projectFilePath": "D:\\CustomerInvitationApp\\src\\CustomerInvitationApp.Model\\CustomerInvitationApp.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

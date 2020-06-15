@@ -1,0 +1,14 @@
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.csprojAssemblyReference.cache
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.AssemblyInfoInputs.cache
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.AssemblyInfo.cs
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.csproj.CoreCompileInputs.cache
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\CustomerInvitationApp.Data.deps.json
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\CustomerInvitationApp.Data.dll
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\CustomerInvitationApp.Data.pdb
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.dll
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.pdb
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\Application.Common.dll
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\CustomerInvitationApp.Model.dll
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\CustomerInvitationApp.Model.pdb
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\bin\Debug\netstandard2.0\Application.Common.pdb
+D:\CustomerInvitationApp\src\CustomerInvitationApp.Data\obj\Debug\netstandard2.0\CustomerInvitationApp.Data.csproj.CopyComplete

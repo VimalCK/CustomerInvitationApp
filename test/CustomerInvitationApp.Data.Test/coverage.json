@@ -1,0 +1,1147 @@
+{
+  "Application.Common.dll": {
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Configuration\\ConfigurationManager.cs": {
+      "Application.Common.ConfigurationManager": {
+        "Application.Common.Model.Settings Application.Common.ConfigurationManager::get_Settings()": {
+          "Lines": {
+            "14": 3,
+            "15": 3,
+            "16": 1,
+            "18": 3,
+            "19": 3
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 15,
+              "Offset": 11,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void Application.Common.ConfigurationManager::ReloadConfigurationManager()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Void Application.Common.ConfigurationManager::InitializeApplicationSettings()": {
+          "Lines": {
+            "28": 1,
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "33": 1,
+            "34": 1,
+            "35": 1,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Output\\ConsoleWriter.cs": {
+      "Application.Common.ConsoleWriter": {
+        "System.Void Application.Common.ConsoleWriter::PrintHeading(System.String)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 78,
+              "EndOffset": 80,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 78,
+              "EndOffset": 111,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Application.Common.ConsoleWriter::PrintSettings()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Void Application.Common.ConsoleWriter::PrintError(System.String)": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 9,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 9,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Application.Common.ConsoleWriter::.cctor()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "Application.Common.ConsoleWriter/<>c__5`1": {
+        "System.Boolean Application.Common.ConsoleWriter/<>c__5`1::<CreateOutputAsync>b__5_0(System.Reflection.PropertyInfo)": {
+          "Lines": {
+            "46": 0
+          },
+          "Branches": []
+        },
+        "System.String Application.Common.ConsoleWriter/<>c__5`1::<CreateOutputAsync>b__5_1(System.Reflection.PropertyInfo)": {
+          "Lines": {
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "Application.Common.ConsoleWriter/<CreateOutputAsync>d__5`1": {
+        "System.Void Application.Common.ConsoleWriter/<CreateOutputAsync>d__5`1::MoveNext()": {
+          "Lines": {
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "77": 0,
+            "78": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 41,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 77,
+              "EndOffset": 102,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 134,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 648,
+              "EndOffset": 179,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 513,
+              "EndOffset": 203,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 266,
+              "EndOffset": 268,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 281,
+              "EndOffset": 283,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 281,
+              "EndOffset": 353,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 266,
+              "EndOffset": 382,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 395,
+              "EndOffset": 397,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 395,
+              "EndOffset": 467,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 513,
+              "EndOffset": 518,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 559,
+              "EndOffset": 561,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 559,
+              "EndOffset": 568,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 597,
+              "EndOffset": 599,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 597,
+              "EndOffset": 605,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 648,
+              "EndOffset": 653,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\StorageLocationService.cs": {
+      "Application.Common.StorageLocationService": {
+        "Application.Common.IStorageService Application.Common.StorageLocationService::GetStorageService(System.String)": {
+          "Lines": {
+            "10": 4,
+            "11": 4,
+            "12": 4,
+            "13": 7,
+            "14": 1,
+            "15": 0,
+            "16": 1,
+            "18": 1,
+            "19": 4
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 13,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 13,
+              "Offset": 23,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 15,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 51,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 12,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.ValueTuple`2<System.Boolean,System.Uri> Application.Common.StorageLocationService::IsOnlineStorage(System.String)": {
+          "Lines": {
+            "23": 1,
+            "25": 1,
+            "27": 1,
+            "28": 1,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 1
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 27,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 27,
+              "Offset": 29,
+              "EndOffset": 49,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 11,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean Application.Common.StorageLocationService::IsLocalStorage(System.String)": {
+          "Lines": {
+            "37": 4,
+            "39": 4,
+            "40": 4,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Storage\\LocalStorageService.cs": {
+      "Application.Common.LocalStorageService": {
+        "System.Void Application.Common.LocalStorageService::.ctor(System.String)": {
+          "Lines": {
+            "11": 3,
+            "12": 3,
+            "13": 3,
+            "14": 3
+          },
+          "Branches": []
+        }
+      },
+      "Application.Common.LocalStorageService/<GetDataAsync>d__2`1": {
+        "System.Void Application.Common.LocalStorageService/<GetDataAsync>d__2`1::MoveNext()": {
+          "Lines": {
+            "16": 3,
+            "18": 3,
+            "19": 3,
+            "20": 0,
+            "22": 3,
+            "23": 3,
+            "24": 15,
+            "25": 15,
+            "26": 15,
+            "27": 18,
+            "28": 12,
+            "29": 12,
+            "30": 3,
+            "32": 3,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 3
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 56,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 27,
+              "Offset": 246,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 12
+            },
+            {
+              "Line": 27,
+              "Offset": 246,
+              "EndOffset": 283,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "Application.Common.LocalStorageService/<SaveDataAsync>d__3`1": {
+        "System.Void Application.Common.LocalStorageService/<SaveDataAsync>d__3`1::MoveNext()": {
+          "Lines": {
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 41,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 296,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 296,
+              "EndOffset": 301,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Storage\\OnlineStorageService.cs": {
+      "Application.Common.OnlineStorageService": {
+        "System.Void Application.Common.OnlineStorageService::.ctor(System.Uri)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "Application.Common.OnlineStorageService/<GetDataAsync>d__2`1": {
+        "System.Void Application.Common.OnlineStorageService/<GetDataAsync>d__2`1::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 204,
+              "EndOffset": 209,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 332,
+              "EndOffset": 252,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 332,
+              "EndOffset": 334,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 204,
+              "EndOffset": 349,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Application.Common.OnlineStorageService/<SaveDataAsync>d__3`1": {
+        "System.Void Application.Common.OnlineStorageService/<SaveDataAsync>d__3`1::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 41,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 296,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 296,
+              "EndOffset": 301,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Model\\Location.cs": {
+      "Application.Common.Model.Location": {
+        "System.Double Application.Common.Model.Location::get_Latitude()": {
+          "Lines": {
+            "5": 10
+          },
+          "Branches": []
+        },
+        "System.Double Application.Common.Model.Location::get_Longitude()": {
+          "Lines": {
+            "6": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\Application.Common\\Model\\Settings.cs": {
+      "Application.Common.Model.Settings": {
+        "System.String Application.Common.Model.Settings::get_Title()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Application.Common.Model.Settings::get_Distance()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        },
+        "Application.Common.Model.Location Application.Common.Model.Settings::get_OfficeLocation()": {
+          "Lines": {
+            "5": 4
+          },
+          "Branches": []
+        },
+        "System.String Application.Common.Model.Settings::get_OutputFile()": {
+          "Lines": {
+            "6": 3
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Common.dll": {
+    "D:\\CustomerInvitationApp\\test\\Common\\Helper.cs": {
+      "Application.Common.Test.Helper": {
+        "System.String Application.Common.Test.Helper::get_OutputPath()": {
+          "Lines": {
+            "11": 19
+          },
+          "Branches": []
+        },
+        "System.Void Application.Common.Test.Helper::InitializeApplicationSettings()": {
+          "Lines": {
+            "14": 6,
+            "15": 6,
+            "17": 6,
+            "18": 6,
+            "19": 6,
+            "20": 6,
+            "21": 6,
+            "22": 6,
+            "23": 6,
+            "24": 6,
+            "25": 6,
+            "26": 6,
+            "27": 6,
+            "28": 6,
+            "29": 6,
+            "30": 6,
+            "31": 6,
+            "32": 6,
+            "34": 6,
+            "35": 6,
+            "36": 6,
+            "37": 6
+          },
+          "Branches": []
+        },
+        "System.Void Application.Common.Test.Helper::CreateCustomers()": {
+          "Lines": {
+            "40": 4,
+            "41": 4,
+            "42": 4,
+            "43": 4,
+            "44": 4,
+            "45": 4,
+            "46": 4,
+            "48": 4,
+            "50": 4,
+            "51": 4,
+            "52": 44,
+            "53": 16,
+            "54": 16,
+            "55": 16,
+            "56": 4,
+            "57": 4
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 90,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            },
+            {
+              "Line": 52,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Void Application.Common.Test.Helper::CreateDummyCustomers()": {
+          "Lines": {
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": []
+        },
+        "System.Void Application.Common.Test.Helper::ClearApplicationSettings()": {
+          "Lines": {
+            "66": 12,
+            "67": 12,
+            "68": 6,
+            "69": 12
+          },
+          "Branches": [
+            {
+              "Line": 67,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 67,
+              "Offset": 13,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 12
+            }
+          ]
+        },
+        "System.Void Application.Common.Test.Helper::ClearOutputFiles()": {
+          "Lines": {
+            "73": 8,
+            "74": 12,
+            "75": 8
+          },
+          "Branches": [
+            {
+              "Line": 74,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 74,
+              "Offset": 13,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            }
+          ]
+        },
+        "System.Void Application.Common.Test.Helper::.cctor()": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "CustomerInvitationApp.Data.dll": {
+    "D:\\CustomerInvitationApp\\src\\CustomerInvitationApp.Data\\CustomerRepository.cs": {
+      "CustomerInvitationApp.Data.CustomerRepository": {
+        "System.Void CustomerInvitationApp.Data.CustomerRepository::.ctor(Application.Common.IStorageService)": {
+          "Lines": {
+            "14": 4,
+            "15": 4,
+            "16": 5,
+            "17": 3,
+            "18": 3
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 16,
+              "Offset": 14,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "CustomerInvitationApp.Data.CustomerRepository/<GetCustomersAsync>d__2": {
+        "System.Void CustomerInvitationApp.Data.CustomerRepository/<GetCustomersAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": []
+        }
+      },
+      "CustomerInvitationApp.Data.CustomerRepository/<GetCustomersWithinSpecificDistanceAsync>d__3": {
+        "System.Void CustomerInvitationApp.Data.CustomerRepository/<GetCustomersWithinSpecificDistanceAsync>d__3::MoveNext()": {
+          "Lines": {
+            "25": 2,
+            "26": 2,
+            "27": 2,
+            "28": 22,
+            "29": 8,
+            "30": 8,
+            "31": 14,
+            "32": 8,
+            "34": 2,
+            "35": 2,
+            "36": 2
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 405,
+              "EndOffset": 199,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            },
+            {
+              "Line": 31,
+              "Offset": 366,
+              "EndOffset": 368,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 31,
+              "Offset": 366,
+              "EndOffset": 386,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            },
+            {
+              "Line": 28,
+              "Offset": 405,
+              "EndOffset": 410,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "CustomerInvitationApp.Data.CustomerRepository/<SaveCustomersAsync>d__4": {
+        "System.Void CustomerInvitationApp.Data.CustomerRepository/<SaveCustomersAsync>d__4::MoveNext()": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\CustomerInvitationApp\\src\\CustomerInvitationApp.Data\\ExtensionMethods.cs": {
+      "CustomerInvitationApp.Data.ExtensionMethods": {
+        "System.Threading.Tasks.Task`1<System.Double> CustomerInvitationApp.Data.ExtensionMethods::GetDistanceFromMainOfficeAsync(CustomerInvitationApp.Model.Customer,Application.Common.Model.Location)": {
+          "Lines": {
+            "11": 10,
+            "12": 11,
+            "13": 9,
+            "14": 9,
+            "16": 9,
+            "17": 9,
+            "18": 9,
+            "19": 9,
+            "21": 9,
+            "22": 9,
+            "23": 10
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 12,
+              "Offset": 9,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 9
+            },
+            {
+              "Line": 13,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 9
+            },
+            {
+              "Line": 13,
+              "Offset": 43,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 9
+            },
+            {
+              "Line": 14,
+              "Offset": 79,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "CustomerInvitationApp.Model.dll": {
+    "D:\\CustomerInvitationApp\\src\\CustomerInvitationApp.Model\\Customer.cs": {
+      "CustomerInvitationApp.Model.Customer": {
+        "System.Int32 CustomerInvitationApp.Model.Customer::get_Id()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String CustomerInvitationApp.Model.Customer::get_Name()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.String CustomerInvitationApp.Model.Customer::get_Latitude()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String CustomerInvitationApp.Model.Customer::get_Longitude()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 CustomerInvitationApp.Model.Customer::CompareTo(CustomerInvitationApp.Model.Customer)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
